@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184377453138",
+    "firebase_url": "https://flutter-flash-chat-13485.firebaseio.com",
+    "project_id": "flutter-flash-chat-13485",
+    "storage_bucket": "flutter-flash-chat-13485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184377453138:android:98a5a207054ffa7a08cd8b",
+        "android_client_info": {
+          "package_name": "com.Edenik.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184377453138-5ga5nhci42b10voqb939lqeie8fqdqot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8KvU10qm4GJuQeP83sfLJ3AP_UDbCD7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184377453138-5ga5nhci42b10voqb939lqeie8fqdqot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
